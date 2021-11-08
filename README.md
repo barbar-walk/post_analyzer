@@ -22,6 +22,7 @@ Twitter 投稿解析器
 #### ▼起動
 
 ```
+> cd ./local
 > docker-compose up -d --build
 ```
 
